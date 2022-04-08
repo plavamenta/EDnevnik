@@ -121,6 +121,11 @@ namespace EDnevnik
 
         }
 
+        private void lbl_id_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void Osoba_Load(object sender, EventArgs e)
         {
             Load_Data();
