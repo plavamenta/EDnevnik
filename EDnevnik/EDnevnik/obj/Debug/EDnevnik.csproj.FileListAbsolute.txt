@@ -25,3 +25,6 @@ C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\obj\Debug\EDnevnik.csproj.
 C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\obj\Debug\EDnevnik.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\obj\Debug\EDnevnik.exe
 C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\obj\Debug\EDnevnik.pdb
+C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\obj\Debug\EDnevnik.Glavna2.resources
+C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\obj\Debug\EDnevnik.Upisnica.resources
+C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\obj\Debug\EDnevnik.Ocena.resources
